@@ -14,9 +14,9 @@ Para este propósito los jugadores se turnan para ejecutar un único disparo que
 
 ## Características principales
 
-- 🎯 Juego por turnos: jugador vs. máquina.
-- 📋 2 tableros para barcos y 2 para disparos.
-- 💥 Impactos, hundimientos y detección de ganador.
+ 🎯 Juego por turnos: jugador vs. máquina.
+ 📋 2 tableros para barcos y 2 para disparos.
+ 💥 Impactos, hundimientos y detección de ganador.
 
 ## Estructura del proyecto
 ```
